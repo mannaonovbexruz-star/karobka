@@ -10,7 +10,7 @@ body {
   color: #222;
 }
 
-/* Navbar */
+
 .navbar {
   width: 100%;
   display: flex;
@@ -63,7 +63,7 @@ body {
     color: #000 ;
 }
 
-/* Hero Section */
+
 .hero {
   display: flex;
   align-items: center;
@@ -94,7 +94,7 @@ body {
   width: 400px;
 }
 
-/* About Section */
+
 .about {
   display: flex;
   align-items: center;
